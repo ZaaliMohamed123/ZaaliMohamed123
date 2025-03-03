@@ -62,4 +62,7 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" alt="matlab" width="40" height="40"/> 
   </a> 
+  <a href="https://streamlit.io" target="_blank" rel="noreferrer"> 
+    <img src="https://docs.streamlit.io/en/stable/_static/streamlit-logo-primary-color.png" alt="streamlit" width="40" height="40"/> 
+  </a>
 </p>
