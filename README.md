@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm ZAALI Mohamed!</h1>
+<h1 align="center">Hi 👋, I'm ZAALI Mohamed!</h1>
 
 - 🌱 I’m a second-year student specializing in Data Science, AI, and Digital Health Engineering. Technology has been my passion since childhood, and I’m now channeling that lifelong curiosity into coding and algorithm development.
 
