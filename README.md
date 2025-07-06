@@ -1,68 +1,88 @@
-<h1 align="center">Hi 👋, I'm ZAALI Mohamed!</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZaaliMohamed123.ZaaliMohamed123" />
 
-- 🌱 I’m a second-year student specializing in Data Science, AI, and Digital Health Engineering. Technology has been my passion since childhood, and I’m now channeling that lifelong curiosity into coding and algorithm development.
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hey there! Nice to see you.
+</h1>
 
-- 🌟 With a keen interest in the intersection of healthcare and technology, I aim to contribute to innovative solutions that enhance digital health.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ZAALI+Mohamed!;" />
 
-- 🚀 As I continue this journey of growth and learning, I am dedicated to making a meaningful impact in the ever-evolving tech landscape.
-
-- 📫 How to reach me: [zaali.mohamed3002@gmail.com](mailto:zaali.mohamed3002@gmail.com)
-
-- 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/m-zaali)
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-zaali" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourlinkedinprofile" height="30" width="40" />
-  </a>
-  <!-- Add other social links if you have any -->
+<p>
+  I'm a passionate Engineering Student from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b> Morocco</b>, specializing in Data Science, AI, and Digital Health at <b>ENSAM Rabat</b>. My goal is to leverage technology to build innovative solutions at the intersection of healthcare and artificial intelligence.
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">      
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://keras.io" target="_blank" rel="noreferrer">      
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> 
-  </a>   
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">       
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-logo.png" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://streamlit.io" target="_blank" rel="noreferrer"> 
-    <img src="https://streamlit.io/images/logo.png" alt="streamlit" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
+<div align="center">
+  <b>Data Science & AI Student | Health-Tech Innovator | Full-Stack Developer</b>
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://linkedin.com/in/m-zaali" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/ZaaliMohamed123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="mailto:zaali.mohamed3002@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project Name | Description | Technologies Used |
+|--------------|-------------|-------------------|
+| 🗣️ **AL-MUQARRIR** | A web platform for real-time transcription, speaker diarization, and automatic generation of meeting minutes with semantic analysis. | `Whisper (OpenAI)` `PyAnnote` `Gemini API` `Flask` `Angular` `SQLite` |
+| 💊 **Cura** | A web application for managing medical treatments, featuring AI-powered drug interaction detection and patient-friendly alerts. | `PyTorch` `Gemini API` `Flask` `SQLAlchemy` `Bootstrap` `SQLite` |
+| 🛡️ **Network Intrusion Detection** | A system that captures and analyzes network packets in real-time to detect potential intrusions using machine learning. | `Kafka` `PyShark` `Scikit-learn` `Pandas` `Joblib` |
+| 🧠 **LipReader** | A Deep Learning application that converts lip movements from a video feed into text. | `TensorFlow` `Keras` `Streamlit` |
+
+---
+
+## 🛠️ My Tech Stack
+
+### Programming Languages
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
+
+### Web Technologies & Frameworks
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### Data Science, AI & Big Data
+<p>
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/SciKit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=black" />
+</p>
+
+### Databases & Other Tools
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZaaliMohamed123&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaaliMohamed123&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" />
 </p>
